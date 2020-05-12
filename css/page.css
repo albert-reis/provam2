@@ -1,0 +1,26 @@
+*{
+
+    margin: 0px;
+    border: 0px;
+
+}
+
+.body
+{
+
+      font-family:  Helvetica;
+      margin: 0px;
+}
+
+.contact
+{
+    float: right;
+    height: 20vh;
+    width: 50vw;
+    background-color: transparent;
+}
+.title
+{
+    font-size: 18px;
+    color: red;
+}
