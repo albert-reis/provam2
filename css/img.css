@@ -1,8 +1,17 @@
 .navbar{
 
-    background-color: black;
+    background-image: url("../img/background.jpg");
     background-attachment: fixed;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
+.home-img
+{
+
+    margin-top: 15px;
+    padding: 14px 16px;
+    background-image: url("../img/esfera.png");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
