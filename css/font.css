@@ -1,0 +1,66 @@
+#titleMedium
+{
+    margin: 10px 0 0 300px;
+    font-weight: bolder;
+    font-size: 30px;
+    
+    
+}
+
+.paragrafo
+{
+    word-wrap: break-word;
+    width: 40vw;
+    float: left;
+}
+.titleParagrafo
+{
+    font-weight: bolder;
+    margin: 30px 0 10px 0;
+    font-size: 12px;
+    color: rgb(85, 85, 85);
+    
+
+}
+
+.titleParagrafoMaster
+{
+    font-weight: bolder;
+    margin: 10px 0 10px 0;
+    font-size: 12px;
+    color: rgb(85, 85, 85);
+    
+
+}
+
+.titleParagrafo2
+{
+    width: 30vw;
+    font-weight: bolder;
+    font-size: 23px;
+    
+
+}
+.endParagrafo
+{
+    font-weight: bolder;
+    font-size: 12px;
+    color: rgb(85, 85, 85); ;
+    margin-bottom: 10px;
+    
+
+}
+
+.endParagrafo2
+{
+    font-weight: bolder;
+    font-size: 12px;
+    
+
+}
+.paragrafoMidle
+{
+    color: rgb(85, 85, 85); ;
+    margin-bottom: 10px;
+
+}

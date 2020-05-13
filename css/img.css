@@ -18,10 +18,18 @@
 
 img
 {
-    margin: 10px  10px 10px;
+    margin: 10px 0 52px 10px;
 }
 .img-content
 {
     width: 1px;
     word-wrap: break-word;
+}
+
+.img-footer
+{
+    margin: -20px 0 0 280px;
+    height: 4vh;
+    width: 2vw;
+
 }
