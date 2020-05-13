@@ -15,3 +15,13 @@
     height: 10vh;
     width: 30vw;
 }
+
+img
+{
+    margin: 10px  10px 10px;
+}
+.img-content
+{
+    width: 1px;
+    word-wrap: break-word;
+}
