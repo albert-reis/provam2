@@ -7,20 +7,24 @@
 
 .body
 {
-
       font-family:  Helvetica;
       margin: 0px;
 }
 
-.contact
-{
-    float: right;
-    height: 20vh;
-    width: 50vw;
-    background-color: transparent;
+.conteudo{
+    margin-top: 10px;
+    border: 1px solid rgba(25, 194, 143, 0.459);
+    height: 55vh;
+    width: 30vw;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    float: left;
+    
 }
-.title
-{
-    font-size: 18px;
-    color: red;
-}
+.corpo{
+    margin: 0 auto 0 auto;
+    width: 50%;
+    max-width: 51%;
+
+ }

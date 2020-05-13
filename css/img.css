@@ -1,6 +1,6 @@
 .navbar{
 
-    background-image: url("../img/background.jpg");
+    background-color: black;
     background-attachment: fixed;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -8,10 +8,10 @@
 
 .home-img
 {
-
-    margin-top: 15px;
-    padding: 14px 16px;
-    background-image: url("../img/esfera.png");
+    padding: 0px 0px;
+    background-image: url("../img/urso.png");
     background-repeat: no-repeat;
-    background-size: 100%
+    background-size: 50%;
+    height: 10vh;
+    width: 30vw;
 }
