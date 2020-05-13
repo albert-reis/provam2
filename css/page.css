@@ -28,11 +28,11 @@
 
 hr
 {
-    margin-left: -60px;
+    margin-left: 230px;
     border: 0;
     clear:both;
     display:inline-block;
-    width: 120%;               
+    width: 80%;               
     background-color: rgba(56, 54, 54, 0.438);
     height: 1px;
 }
